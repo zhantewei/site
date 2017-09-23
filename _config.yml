@@ -2,5 +2,4 @@ theme: jekyll-theme-cayman
 plugins:
   - jekyll-redirect-from
   
-redirect_from:
-  - /site/self
+permalink: /404.html
